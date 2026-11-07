@@ -10,7 +10,7 @@ A scanner that finds a coconut in a photo and estimates its stage (**malauhog**,
 
 The large model files are not stored in this repository. Download them first:
 
-**📦 Download: `<PASTE YOUR GOOGLE DRIVE LINK HERE>`**
+**📦 Download: `<(https://drive.google.com/drive/folders/12-iaRUQipyGbFnGSZwwcpCzPScowXtc_?usp=drive_link)>`**
 
 | File | Needed to run the app? |
 |------|------------------------|
