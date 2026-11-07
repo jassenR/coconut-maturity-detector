@@ -1,0 +1,13 @@
+﻿streamlit
+ultralytics
+torch
+torchvision
+torchaudio
+librosa
+scikit-learn
+joblib
+numpy
+pandas
+openpyxl
+pillow
+matplotlib
