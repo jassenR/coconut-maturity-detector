@@ -1,0 +1,8 @@
+﻿*.xlsx
+*.zip
+*.joblib
+*.pt
+yolo_export/
+runs/
+runs_charts/
+data/
